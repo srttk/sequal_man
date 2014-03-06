@@ -1,0 +1,3 @@
+http://stackoverflow.com/questions/14221384/best-way-to-insert-a-date-into-mysql
+
+http://stackoverflow.com/questions/12120433/php-mysql-insert-date-format
